@@ -11,7 +11,7 @@
 </div>
 
 
-### 👩🏽‍💻 &nbsp;About Me
+# 👩🏽‍💻 &nbsp;About Me
 
 I'm studing for to be a programmer. I like the old music, the lions (only in photos) and make sport. 
 I love the Volleiball 🏐 and walk in the beach.

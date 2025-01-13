@@ -13,7 +13,12 @@
 
 ## 👩🏽‍💻 &nbsp;About Me
 
-I am a person who seeks to be creative not only to inspire myself, but to inspire others as well. I aim to become a programmer and dedicate myself to it for the rest of my life. I'm a little interested in design and photography; Little by little I will continue learning, growing and training in this wonderful world of Web Development. 
+<div align="justify">
+  
+  <h2>I am a person who seeks to be creative not only to inspire myself, but to inspire others as well. I aim to become a programmer and dedicate myself to it for the rest of my life. I'm a little interested in design and photography; Little by little I will continue learning, growing and training in this wonderful world of Web Development. !</h2>
+</div>
+
+
 
 💡 &nbsp;I like to learn about web developed.\
 🎓 &nbsp;I'm currently studying Full Stack development Bootcamp with Factoria F5 .\

@@ -7,8 +7,7 @@
 ## Hey there! I'm Karina Lorenzo 😎👋🏾  
 
 <div align="center">
-  <h1>welcome to my Github! ![Descripción del GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
- </h1>
+  <h1>welcome to my Github!</h1>
 </div>
 
 

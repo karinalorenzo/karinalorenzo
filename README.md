@@ -4,7 +4,7 @@
 </p>
 
 
-# Hey there! I'm Karina Lorenzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
+# Hello everyone! I'm Karina Lorenzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
 
 <div align="center">
   <h1>Welcome to my Github!</h1>

@@ -1,6 +1,9 @@
-Hey there! I'm Karina Lorenzo 😎</h2>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
+Hey there! I'm Karina Lorenzo 😎</h2>
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 

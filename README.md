@@ -7,7 +7,7 @@
 ## Hey there! I'm Karina Lorenzo 😎👋🏾  
 
 <div align="center">
-  <h1>welcome to my Github!</h1>
+  <h1>Welcome to my Github!</h1>
 </div>
 
 

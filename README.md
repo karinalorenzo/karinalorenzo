@@ -1,7 +1,5 @@
 Hey there! I'm Karina Lorenzo 😎</h2>
 
-
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to learn about web developed.\
@@ -9,8 +7,6 @@ Hey there! I'm Karina Lorenzo 😎</h2>
 🌱 &nbsp;I'm on track for learning more about React, JavaScript and everything related to the Frontend.\
 ✍️ &nbsp;In my free time, I .\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,3 +18,6 @@ Hey there! I'm Karina Lorenzo 😎</h2>
 - Jira 🫡
 - Trello 🎯
 - Obsidian 🧠
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+

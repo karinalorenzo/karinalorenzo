@@ -4,14 +4,14 @@
 </p>
 
 
-## Hey there! I'm Karina Lorenzo 😎👋🏾  
+# Hey there! I'm Karina Lorenzo 😎👋🏾  
 
 <div align="center">
   <h1>Welcome to my Github!</h1>
 </div>
 
 
-# 👩🏽‍💻 &nbsp;About Me
+## 👩🏽‍💻 &nbsp;About Me
 
 I'm studing for to be a programmer. I like the old music, the lions (only in photos) and make sport. 
 I love the Volleiball 🏐 and walk in the beach.

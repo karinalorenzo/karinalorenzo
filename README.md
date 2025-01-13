@@ -39,7 +39,7 @@ I love the Volleiball 🏐 and walk in the beach.
 
 # GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&count_private=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=karinaloenzo_icons=true&count_private=true&theme=radical)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=radical)
 

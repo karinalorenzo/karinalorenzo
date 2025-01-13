@@ -21,7 +21,7 @@ I love the Volleiball 🏐 and walk in the beach.
 🌱 &nbsp;I'm on track for learning more about React, JavaScript and everything related to the Frontend.\
 ✍️ &nbsp;I love write and reed.\
 🏐 &nbsp;In my free time, I like walk in the beach and play volleyball .\
-📌 &nbsp;I like the old music, the lions (only in photos) and make sport .\
+📌 &nbsp;I like the old music, the lions (only in photos) and make sport .
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>

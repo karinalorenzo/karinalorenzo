@@ -34,9 +34,8 @@ I love the Volleiball 🏐 and walk in the beach.
 - Trello 🎯
 - Obsidian 🧠
 
-  <div align="left">
-      <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-</div>
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
+
 
 
 ## Contact

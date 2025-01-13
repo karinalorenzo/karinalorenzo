@@ -37,6 +37,17 @@ I love the Volleiball 🏐 and walk in the beach.
 - Trello 🎯
 - Obsidian 🧠
 
+#### 🏊‍♂️ Weekly Development Breakdown
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+</picture>
+
+</td>
+<td valign="top" width="50%">
+
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>

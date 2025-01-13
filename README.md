@@ -37,16 +37,13 @@ I love the Volleiball 🏐 and walk in the beach.
 - Trello 🎯
 - Obsidian 🧠
 
-#### 🏊‍♂️ Weekly Development Breakdown
+# GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
-  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
-</picture>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&count_private=true&theme=radical)
 
-</td>
-<td valign="top" width="50%">
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=radical)
+
+
 
 <p align="center"><samp>
 Check out my repos ⬇️  

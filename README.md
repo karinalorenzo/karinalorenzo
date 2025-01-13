@@ -23,9 +23,6 @@ I love the Volleiball 🏐 and walk in the beach.
 🏐 &nbsp;In my free time, I like walk in the beach and play volleyball .\
 📌 &nbsp;I like the old music, the lions (only in photos) and make sport .
 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ## 🛠 &nbsp;Tech Stack
 
 - HTML 🏗
@@ -36,6 +33,8 @@ I love the Volleiball 🏐 and walk in the beach.
 - Jira 🫡
 - Trello 🎯
 - Obsidian 🧠
+  
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## Contact
 - Email: karinalrg16@gmail.com

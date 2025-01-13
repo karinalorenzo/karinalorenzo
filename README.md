@@ -17,7 +17,7 @@ I'm studing for to be a programmer. I like the old music, the lions (only in pho
 I love the Volleiball 🏐 and walk in the beach.
 
 💡 &nbsp;I like to learn about web developed.\
-🎓 &nbsp;I'm currently studying Web Developed Fullstack at Factoria F5 School.\
+🎓 &nbsp;I'm currently studying Full Stack development Bootcamp with Factoria F5 .\
 🌱 &nbsp;I'm on track for learning more about React, JavaScript and everything related to the Frontend.\
 ✍️ &nbsp;I love write and reed.\
 🏐 &nbsp;In my free time, I like walk in the beach and play volleyball .\
@@ -37,12 +37,14 @@ I love the Volleiball 🏐 and walk in the beach.
 - Trello 🎯
 - Obsidian 🧠
 
-# GitHub Stats
+## Contact
+- Email: karinalrg16@gmail.com
+
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinalorenzo&show_icons=true&count_private=true&theme=merko)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=merko)
-
 
 
 

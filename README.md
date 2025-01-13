@@ -34,19 +34,36 @@ I love the Volleiball 🏐 and walk in the beach.
 - Trello 🎯
 - Obsidian 🧠
 
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
-
-
-
 ## Contact
 - Email: karinalrg16@gmail.com
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinalorenzo&show_icons=true&count_private=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinalorenzo&show_icons=true&count_private=true&theme=merko )
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=merko)
 
+# Sobre mí
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+¡Hola! Soy un desarrollador apasionado por la tecnología y la resolución de problemas. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
+
+---
+
+# Estadísticas de GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&count_private=true&theme=radical" align="right" />
+
+Aquí puedes ver mis estadísticas de GitHub y algunos datos interesantes sobre mi actividad.
+
+---
+
+# Lenguajes más usados
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=radical" align="right" />
+
+Estos son los lenguajes que más utilizo en mis repositorios.
 
 
 <p align="center"><samp>

@@ -26,7 +26,7 @@ I love the Volleiball 🏐 and walk in the beach.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 - HTML 🏗
 - CSS 🎨

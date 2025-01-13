@@ -1,10 +1,10 @@
-<h4 align="center"><samp> ## Hey there! I'm Karina Lorenzo 😎👋🏾  welcome to my Github!  </samp></h4>
+<h4 align="center"><samp> Hey there! I'm Karina Lorenzo 😎👋🏾  welcome to my Github! </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏽‍💻 &nbsp;About Me
 
 I'm studing for to be a programmer. I like the old music, the lions (only in photos) and make sport. 
 I love the Volleiball 🏐 and walk in the beach.

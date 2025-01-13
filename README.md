@@ -5,7 +5,11 @@
 
 
 ## Hey there! I'm Karina Lorenzo 😎👋🏾  
-### welcome to my Github! 
+
+<div align="center">
+  <h1>welcome to my Github! o</h1>
+</div>
+
 
 ### 👩🏽‍💻 &nbsp;About Me
 

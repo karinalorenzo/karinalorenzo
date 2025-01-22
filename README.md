@@ -41,6 +41,11 @@
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=orange&style=for-the-badge)
+![Brave](https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white&style=flat)
+![Google](https://img.shields.io/badge/-Google-4285F4?logo=google&logoColor=white&style=flat)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
+
 
 ## Contact
 - Email: karinalrg16@gmail.com

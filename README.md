@@ -30,12 +30,19 @@
 
 - HTML 🏗
 - CSS 🎨
+- React ⚛️
 - Git 👾
 - GitHub 🐱
 - Visual Studio Code 🚀
 - Jira 🫡
 - Trello 🎯
 - Obsidian 🧠
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+
+
 
 ## Contact
 - Email: karinalrg16@gmail.com

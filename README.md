@@ -49,6 +49,9 @@
 
 ![Atlassian](https://img.shields.io/badge/-Atlassian-0052CC?logo=atlassian&logoColor=white&style=flat)
 
+![Obsidian Logo](https://your-image-host.com/obsidian-logo.png)
+
+
 
 ## Contact
 - Email: karinalrg16@gmail.com

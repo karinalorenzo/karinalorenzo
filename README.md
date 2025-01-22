@@ -46,6 +46,9 @@
 ![Google](https://img.shields.io/badge/-Google-4285F4?logo=google&logoColor=white&style=flat)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
+![Swiper](https://img.shields.io/badge/-Swiper-6332F6?logo=swiper&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
 
 
 

@@ -49,7 +49,7 @@
 
 ![Atlassian](https://img.shields.io/badge/-Atlassian-0052CC?logo=atlassian&logoColor=white&style=flat)
 
-![Obsidian Logo](https://your-image-host.com/obsidian-logo.png)
+![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=data:image/png;base64,<base64-encoded-image>&logoColor=white&style=flat)
 
 
 

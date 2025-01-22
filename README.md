@@ -53,6 +53,13 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=orange&style=for-the-badge)
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat)
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
+
 
 
 

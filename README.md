@@ -51,6 +51,9 @@
 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=data:image/png;base64,<base64-encoded-image>&logoColor=white&style=flat)
 
+![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=orange&style=for-the-badge)
+
+
 
 
 ## Contact

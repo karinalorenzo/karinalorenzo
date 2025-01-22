@@ -26,21 +26,24 @@
 🏐 &nbsp;In my free time, I like walk in the beach and play volleyball .\
 📌 &nbsp;I like the old music, the lions (only in photos) and make sport .
 
-## 🛠 &nbsp;Tech Stack
 
-- HTML 🏗
-- CSS 🎨
-- React ⚛️
+ ## 🛠 &nbsp;Tech Stack
+ 
 - Git 👾
 - GitHub 🐱
 - Visual Studio Code 🚀
-- Jira 🫡
 - Trello 🎯
 - Obsidian 🧠
 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Atlassian](https://img.shields.io/badge/-Atlassian-0052CC?logo=atlassian&logoColor=white&style=flat)
 
 
 ## Contact

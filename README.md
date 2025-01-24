@@ -47,7 +47,7 @@
 ![Swiper](https://img.shields.io/badge/-Swiper-6332F6?logo=swiper&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)  
 
- ### Documentation and organitazation
+ ### Documentation and organization
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-5B5D5D?logo=lucidchart&logoColor=white&style=flat)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)

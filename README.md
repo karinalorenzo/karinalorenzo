@@ -20,7 +20,7 @@
 
 
 💡 &nbsp;I like to learn about web developed.\
-🎓 &nbsp;I'm currently studying at Factoria F5 Full Stack Bootcamp.\
+🎓 &nbsp;I am currently doing a Boocamp Fullstack at Factory F5 .\
 🌱 &nbsp;I'm on track for learning more about React, JavaScript and everything related to the Frontend.\
 ✍️ &nbsp;I love write and reed.\
 🏐 &nbsp;In my free time, I like walk in the beach and play volleyball .\

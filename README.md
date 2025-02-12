@@ -28,8 +28,10 @@
 
 
  ## ☘️ &nbsp;Tech Stack ⤵️
-
+ 
 ### Development
+
+#### Front
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat) 
@@ -38,10 +40,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
+
+#### Back
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-
-
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Hamcrest](https://img.shields.io/badge/-Hamcrest-1D6F42?style=flat&logo=java&logoColor=white)
 
 ### Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
@@ -72,7 +76,7 @@
 ![Copilot](https://img.shields.io/badge/-Copilot-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 ## Contact
-- Email: karinalrg16@gmail.com \
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](karinalrg16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/feed/)
 
 ## GitHub Stats

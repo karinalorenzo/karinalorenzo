@@ -76,7 +76,7 @@
 ![Copilot](https://img.shields.io/badge/-Copilot-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 ## Contact
-![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) karinalrg16@gmail.com \
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://workspace.google.com/intl/es/gmail/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/feed/)
 
 ## GitHub Stats

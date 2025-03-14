@@ -52,6 +52,8 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![Hamcrest](https://img.shields.io/badge/-Hamcrest-1D6F42?style=flat&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/-Mockito-48C9B0?style=flat&logo=java&logoColor=white)
+
 
 ## Editor
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
@@ -63,8 +65,10 @@
  ## Documentation and organization
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-5B5D5D?logo=lucidchart&logoColor=white&style=flat)
+![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+[![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)]
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat) 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=data:image/png;base64,<base64-encoded-image>&logoColor=white&style=flat)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)

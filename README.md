@@ -14,7 +14,7 @@
 
 <div align="justify">
   
-  <h4>I am a person who seeks to be creative not only to inspire myself, but to inspire others as well. I'm to become a programmer and dedicate myself to it for the rest of my life. I'm a little interested in design and photography; Little by little I will continue learning, growing and training in this wonderful world of Web Development.</h4>
+  <h4>I am a person who seeks creativity not only to inspire myself, but to inspire others as well. My goal is to become a programmer and dedicate myself to it for the rest of my life. I have an interest in design and photography, and little by little, I will continue learning, growing, and honing my skills in this wonderful world of Web Development.</h4>
 </div>
 
 

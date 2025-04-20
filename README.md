@@ -19,7 +19,7 @@
 
 
 
-💡 &nbsp;I like to learn about web developed.\
+💡 &nbsp;I like to learn about Web Development.\
 🎓 &nbsp;I am currently doing a Boocamp Fullstack at Factory F5 .\
 🌱 &nbsp;I'm on track for learning more about React, JavaScript and everything related to the Frontend.\
 ✍️ &nbsp;I love write and reed.\

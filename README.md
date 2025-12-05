@@ -18,13 +18,12 @@
 </div>
 
 
-
-💡 &nbsp;I like to learn about Web Development.\
-🎓 &nbsp;I am currently doing a Boocamp Fullstack at Factory F5 .\
-🌱 &nbsp;I'm on track for learning more about React, JavaScript and everything related to the Frontend.\
+💡 &nbsp;I enjoy learning about Web Development..\
+🎓 &nbsp;I recently completed a Fullstack Bootcamp at Factoría F5 .\
+🌱 &nbsp;I'm learning more about React, JavaScript and everything related to the Frontend.\
 ✍️ &nbsp;I love write and reed.\
-🏐 &nbsp;In my free time, I like walk in the beach and play volleyball .\
-📌 &nbsp;I like the old music, the lions (only in photos) and make sport .
+🏐 &nbsp;In my free time, I like walk in the beach, play volleyball and enjoy with my friends and my family.\
+📌 &nbsp;I like the old music, the lions (only in photos) and make sport.
 
 
  ## ☘️ &nbsp;Tech Stack ⤵️
